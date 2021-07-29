@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "roadmap_26f2fe05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "roadmap_de4abae7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Facto",
+            "request": "launch",
+            "mainClass": "Facto"
+        },
+        {
+            "type": "java",
+            "name": "Launch pain",
+            "request": "launch",
+            "mainClass": "pain"
+        }
+    ]
+}
